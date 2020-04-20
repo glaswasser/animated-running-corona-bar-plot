@@ -2,7 +2,7 @@ ANIMATED BARPLOTS
 ================
 
 I really like these animated barplots and was wondering if it’s possible
-in R to create such beautiful animations. I digged the web and
+in R to create such beautiful animations. I dug the web and
 stackoverflow and R-bloggers had answers for me. It is indeed possible
 to create nice animation movies out of plots in R and save them as GIF
 or mp4\!
